@@ -530,7 +530,7 @@ function IntroView({ onStart }: { onStart: () => void }) {
               },
               {
                 title: "Logik statt Moral",
-                text: "Wirtschaftsakteure handeln nicht aus Gier, sondern gehorchen stummen Zwängen (Konkurrenz, Profitrate). Wer moralisiert, befindet sich bereits im analytischen Blindflug.",
+                text: "Wirtschaftsakteure handeln nicht aus Gier, sondern gehorchen stummen Zwängen (Konkurrenz, Profitrate).",
                 icon: <Brain className="w-6 h-6 text-[var(--color-ink)]" />
               },
               {
