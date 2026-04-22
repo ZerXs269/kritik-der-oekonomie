@@ -86,7 +86,7 @@ export const topics: Topic[] = [
         title: 'Abstrakte Arbeit',
         front: 'Was macht völlig verschiedene Waren miteinander vergleichbar (z.B. iPhone und Brot)? Dass in ihnen menschliche Arbeitskraft verausgabt wurde.',
         back: 'Konkrete Arbeit schafft den Gebrauchswert. Abstrakte Arbeit (die rein zeitliche Verausgabung von Energie) bildet die Wertsubstanz. Im Kapitalismus zählt nur letztere als Quelle neuen Reichtums.',
-        content: "## Die Reduktion des Menschen auf Zeit\n\nDamit ein iPhone und ein Laib Brot miteinander getauscht werden können, müssen sie etwas quantitativ gemeinsam haben. Physisch haben sie das nicht. Das Einzige, was alle Waren verbindet: Sie sind Produkte menschlicher Arbeit.\n\nAber nicht der *konkreten* Arbeit. Auf dem Markt wird von der spezifischen Art der Arbeit abstrahiert. Übrig bleibt die rein quantitative Leistung menschlicher Energie: Gesellschaftlich durchschnittlich notwendige Arbeitszeit.\n\nDie Konsequenz: Das Kapital zwingt dazu, Arbeitsprozesse immer weiter zu verdichten. Es geht nicht darum, gute Erzeugnisse zu schaffen, sondern in minimaler Zeit maximal viel abstrakten Wert zu produzieren. Der Mensch wird zum bloßen Parameter: Zeit.",
+        content: "## Die Reduktion des Menschen auf Zeit\n\nDamit ein iPhone und ein Laib Brot miteinander getauscht werden können, müssen sie etwas quantitativ gemeinsam haben. Physisch haben sie das nicht. Das Einzige, was alle Waren verbindet: Sie sind Produkte menschlicher Arbeit.\n\nAber nicht der konkreten Arbeit. Auf dem Markt wird von der spezifischen Art der Arbeit abstrahiert. Übrig bleibt die rein quantitative Leistung menschlicher Energie: Gesellschaftlich durchschnittlich notwendige Arbeitszeit.\n\nDie Konsequenz: Das Kapital zwingt dazu, Arbeitsprozesse immer weiter zu verdichten. Es geht nicht darum, gute Erzeugnisse zu schaffen, sondern in minimaler Zeit maximal viel abstrakten Wert zu produzieren. Der Mensch wird zum bloßen Parameter: Zeit.",
         size: 'tall',
         theme: 'default',
         quiz: {
@@ -120,7 +120,7 @@ export const topics: Topic[] = [
             "Gesellschaft - Wert - Geld (Der Weg zur modernen Zivilisation)"
           ],
           correctIndex: 1,
-          explanation: "Das Kapital wirft Geld in die Zirkulation, kauft Arbeitskraft und Maschinen, um durch die Produktion eine Ware zu erhalten, die sich für *mehr Geld* (G') verkaufen lässt als ursprünglich investiert wurde."
+          explanation: "Das Kapital wirft Geld in die Zirkulation, kauft Arbeitskraft und Maschinen, um durch die Produktion eine Ware zu erhalten, die sich für mehr Geld (G') verkaufen lässt als ursprünglich investiert wurde."
         }
       }
     ]
@@ -139,7 +139,7 @@ export const topics: Topic[] = [
         title: 'Freie Knechtschaft',
         front: "Der Arbeiter ist 'frei' im doppelten Sinne: Frei von Produktionsmitteln und rechtlich frei, sich zu verkaufen. Eine notwendige Bedingung für Profit.",
         back: "Niemand zwingt den Lohnarbeiter mit Gewalt an die Maschinenkette. Er stimmt der Ausbeutung 'freiwillig' per Vertrag zu, weil ihm sonst der Hungertod droht. Der stumme Zwang der Verhältnisse.",
-        content: "## Der Zwang der eigenen Eigentumslosigkeit\n\nEine der größten Ideologien der Gesellschaft ist die Idee, der Arbeitsvertrag sei ein Geschäft unter Gleichen. Rechtlich stimmt das: Niemand zwingt dich.\n\nAber sachlich liegt ein vollständiges Erpressungsverhältnis vor: Weil eine Klasse alle Produktionsmittel (Fabriken, Lizenzen, Land) besitzt und die große Masse nichts außer ihrer nackten Arbeitskraft, *muss* der Lohnarbeiter sich auf den Deal einlassen. Er tauscht seine Lebenszeit gegen sein reines Überleben (den Lohn). Diese bürgerliche 'Freiheit' (statt Sklaverei) ist der perfekte Mechanismus zur effizientesten Erpressung von Leistung.",
+        content: "## Der Zwang der eigenen Eigentumslosigkeit\n\nEine der größten Ideologien der Gesellschaft ist die Idee, der Arbeitsvertrag sei ein Geschäft unter Gleichen. Rechtlich stimmt das: Niemand zwingt dich.\n\nAber sachlich liegt ein vollständiges Erpressungsverhältnis vor: Weil eine Klasse alle Produktionsmittel (Fabriken, Lizenzen, Land) besitzt und die große Masse nichts außer ihrer nackten Arbeitskraft, muss der Lohnarbeiter sich auf den Deal einlassen. Er tauscht seine Lebenszeit gegen sein reines Überleben (den Lohn). Diese bürgerliche 'Freiheit' (statt Sklaverei) ist der perfekte Mechanismus zur effizientesten Erpressung von Leistung.",
         size: 'featured',
         theme: 'dark',
         quiz: {
@@ -161,7 +161,7 @@ export const topics: Topic[] = [
         title: 'Das offene Geheimnis',
         front: 'Woher kommt der Profit? Aus dem unbezahlten Teil des Arbeitstages. Der Lohn zahlt nur die Reproduktion der Arbeitskraft, niemals ihren vollen Ertrag.',
         back: 'In den ersten Stunden des Arbeitstages erarbeitet der Arbeiter den Wert seines eigenen Lohnes. Alles was er danach arbeitet, gehört dem Kapitalisten umsonst: Das ist der Mehrwert.',
-        content: "## Die Mathematik der Ausbeutung\n\nProfit ist kein Aufpreis, den clevere Verkäufer einfach aufschlagen (sonst würden sie sich in der Konkurrenz nur gegenseitig das Geld aus der Tasche ziehen). Profit entsteht in der *Produktion*.\n\nDer Trick: Das Kapital bezahlt nicht den Wert der hergestellten *Produkte*, sondern den Wert der *Arbeitskraft*. Was ist Arbeitskraft wert? So viel, wie nötig ist, sie am Leben und funktionstüchtig zu halten (Miete, Essen, billige Erholung). \n\nDie Pointe: Wenn der Arbeiter nach 3 Stunden genug Wert produziert hat, um seinen Lohn abzudecken, arbeitet er die restlichen 5 Stunden des Tages gratis für das Unternehmen. Diese Differenz ist der Mehrwert. Es ist systematischer legaler Diebstahl nach den Regeln des gerechten Tauschs.",
+        content: "## Die Mathematik der Ausbeutung\n\nProfit ist kein Aufpreis, den clevere Verkäufer einfach aufschlagen (sonst würden sie sich in der Konkurrenz nur gegenseitig das Geld aus der Tasche ziehen). Profit entsteht in der Produktion.\n\nDer Trick: Das Kapital bezahlt nicht den Wert der hergestellten Produkte, sondern den Wert der Arbeitskraft. Was ist Arbeitskraft wert? So viel, wie nötig ist, sie am Leben und funktionstüchtig zu halten (Miete, Essen, billige Erholung). \n\nDie Pointe: Wenn der Arbeiter nach 3 Stunden genug Wert produziert hat, um seinen Lohn abzudecken, arbeitet er die restlichen 5 Stunden des Tages gratis für das Unternehmen. Diese Differenz ist der Mehrwert. Es ist systematischer legaler Diebstahl nach den Regeln des gerechten Tauschs.",
         size: 'normal',
         theme: 'accent',
         quiz: {
@@ -205,7 +205,7 @@ export const topics: Topic[] = [
         title: 'Der absurde Notstand',
         front: 'Nicht der Mangel ist im Kapitalismus das Problem, sondern der Überfluss. Zu viel Kapital, zu viele Waren, die sich nicht mehr rentabel verkaufen lassen.',
         back: 'Wenn Unternehmen massiv rationalisieren, sinken Preise und Löhne. Die ausgequetschte Masse hat am Ende nicht genug Lohn, um all die produzierten Waren zu kaufen. Resultat: Die Krise.',
-        content: "## Armut durch Reichtum\n\nVor-kapitalistische Krisen waren Hungersnöte (Mangel an Dingen aufgrund der Natur). Die kapitalistische Krise ist eine Krise der Überproduktion (Mangel an kaufkräftiger Nachfrage für viel zu viel produzierte Dinge).\n\nWeil jedes Unternehmen versucht, Löhne zu drücken (Kosten senken!) aber gleichzeitig die massenhaft erzeugten Waren verkaufen will, sägt das Gesamtsystem den Ast ab, auf dem es sitzt. \n\nDas Resultat ist höchste Absurdität: Fabriken stehen still, Wohnungen stehen leer, Berge von Lebensmitteln werden vernichtet, und gleichzeitig sitzen Menschen arbeitslos auf der Straße und hungern, *weil eben zu viel Reichtum (als Kapital) da ist*, der momentan keinen Profit mehr abwirft. Ein System, das rational betrachtet völlig verrückt ist.",
+        content: "## Armut durch Reichtum\n\nVor-kapitalistische Krisen waren Hungersnöte (Mangel an Dingen aufgrund der Natur). Die kapitalistische Krise ist eine Krise der Überproduktion (Mangel an kaufkräftiger Nachfrage für viel zu viel produzierte Dinge).\n\nWeil jedes Unternehmen versucht, Löhne zu drücken (Kosten senken!) aber gleichzeitig die massenhaft erzeugten Waren verkaufen will, sägt das Gesamtsystem den Ast ab, auf dem es sitzt. \n\nDas Resultat ist höchste Absurdität: Fabriken stehen still, Wohnungen stehen leer, Berge von Lebensmitteln werden vernichtet, und gleichzeitig sitzen Menschen arbeitslos auf der Straße und hungern, weil eben zu viel Reichtum (als Kapital) da ist, der momentan keinen Profit mehr abwirft. Ein System, das rational betrachtet völlig verrückt ist.",
         size: 'normal',
         theme: 'default',
         quiz: {
@@ -236,7 +236,7 @@ export const topics: Topic[] = [
         title: 'Die Voraussetzung',
         front: 'Der Staat ist kein neutraler Schiedsrichter, der über den Dingen schwebt. Er garantiert das Privateigentum und sichert damit gewaltsam die Ausbeutung.',
         back: 'Ohne staatliche Gewalt (Polizei, Strafrecht) könnte das rechtliche Konstrukt "Privateigentum an Produktionsmitteln" gegen die Masse der Besitzlosen nicht einen Tag existieren.',
-        content: "## Der Wächter der Eigentumsordnung\n\nIm bürgerlichen Verständnis gilt der Staat oft als Instanz, die den bösen Markt nachträglich \"repariert\". Die materialistische Kritik zeigt: Der Staat setzt die bürgerliche Ökonomie überhaupt erst in Kraft.\n\nDas Gewaltmonopol stellt sicher, dass der Hungernde den Supermarkt nicht ausräumt. Es garantiert, dass Schuldner zahlen müssen. Der Staat ist die externe, übergeordnete Gewaltmacht, die den Antagonismus (Kapital vs Arbeit sowie Kapitalist vs Kapitalist) aushält und rechtlich formatiert. Er agiert, um das *Klassenverhältnisses als solches* aufrechtzuerhalten, nicht um es abzuschaffen.",
+        content: "## Der Wächter der Eigentumsordnung\n\nIm bürgerlichen Verständnis gilt der Staat oft als Instanz, die den bösen Markt nachträglich \"repariert\". Die materialistische Kritik zeigt: Der Staat setzt die bürgerliche Ökonomie überhaupt erst in Kraft.\n\nDas Gewaltmonopol stellt sicher, dass der Hungernde den Supermarkt nicht ausräumt. Es garantiert, dass Schuldner zahlen müssen. Der Staat ist die externe, übergeordnete Gewaltmacht, die den Antagonismus (Kapital vs Arbeit sowie Kapitalist vs Kapitalist) aushält und rechtlich formatiert. Er agiert, um das Klassenverhältnisses als solches aufrechtzuerhalten, nicht um es abzuschaffen.",
         size: 'wide',
         theme: 'outlined',
         quiz: {
@@ -258,7 +258,7 @@ export const topics: Topic[] = [
         title: 'Die Standort-Verwaltung',
         front: 'Demokratie ist die beste Hülle für den Kapitalismus. Die Bürger stimmen alle paar Jahre freiwillig der Verwaltung ihrer eigenen Nützlichmachung zu.',
         back: 'Bei Wahlen entscheiden wir nicht über die System-Grundlagen, diese stehen in der Verfassung und im globalen Marktgeschehen fest. Wir bestimmen das Personal zur Exekution von „Sachzwängen“.',
-        content: "## Die Kreuzchen für den Sachzwang\n\nDer Fehler der linker Sozialdemokratie: Sie hält den Staat für ein neutrales Werkzeug, das man durch Wahlen nur in die richtigen (linken) Hände bekommen müsse, um Gutes zu tun.\n\nJede Regierung (ob Grün, Rot, Schwarz oder Gelb) sieht sich am ersten Tag im Amt demselben Sachzwang ausgesetzt: *Dem Gedeihen der nationalen Wirtschaft*. Ohne florierendes Kapital gibt es keine Steuern; ohne Steuern keine staatliche Macht. \nDie Wähler fungieren in der Demokratie als Abnick-Verein, der aus verschiedenen Teams jenes Management (Regierung) wählt, welchem man zutraut, den nationalen Reichtum (den Kapitalstandort) bestmöglich gegen andere Nationen zu stärken, was fast immer Einschnitte für die abhängig Beschäftigten bedeutet.",
+        content: "## Die Kreuzchen für den Sachzwang\n\nDer Fehler der linker Sozialdemokratie: Sie hält den Staat für ein neutrales Werkzeug, das man durch Wahlen nur in die richtigen (linken) Hände bekommen müsse, um Gutes zu tun.\n\nJede Regierung (ob Grün, Rot, Schwarz oder Gelb) sieht sich am ersten Tag im Amt demselben Sachzwang ausgesetzt: Dem Gedeihen der nationalen Wirtschaft. Ohne florierendes Kapital gibt es keine Steuern; ohne Steuern keine staatliche Macht. \nDie Wähler fungieren in der Demokratie als Abnick-Verein, der aus verschiedenen Teams jenes Management (Regierung) wählt, welchem man zutraut, den nationalen Reichtum (den Kapitalstandort) bestmöglich gegen andere Nationen zu stärken, was fast immer Einschnitte für die abhängig Beschäftigten bedeutet.",
         size: 'normal',
         theme: 'default',
         quiz: {
@@ -270,7 +270,7 @@ export const topics: Topic[] = [
             "Die Politiker sind einfach noch nicht intelligent genug für gute Lösungen."
           ],
           correctIndex: 0,
-          explanation: "Demokratie ändert nichts an den Kategorien Wert, Lohnarbeit und Profit. Die Regierung verwaltet *diesen* Staat und *diese* Ökonomie, sie kann und will die Ausbeutungslogik nicht abschaffen."
+          explanation: "Demokratie ändert nichts an den Kategorien Wert, Lohnarbeit und Profit. Die Regierung verwaltet diesen Staat und diese Ökonomie, sie kann und will die Ausbeutungslogik nicht abschaffen."
         }
       },
       {
@@ -354,8 +354,8 @@ export const topics: Topic[] = [
         number: 'Karte 02 / Leistungsideologie',
         title: 'Die Meritokratie',
         front: '„Jeder ist seines Glückes Schmied.“ Die aggressivste bürgerliche Phrase. Wer scheitert, hat sich einfach nicht genug angestrengt.',
-        back: 'In einem System, wo Privateigentum Millionen von Menschen strukturell aussperrt und systematisch Profit aus Lohnarbeit gezogen wird, ist der Reichtum nie Resultat eigner Arbeit, sondern *fremder*.',
-        content: "## Das Märchen vom Fleiß\n\nWenn harte Arbeit reich machen würde, wären Krankenschwestern und Bauarbeiter Millionäre. Die Leistungsideologie erfüllt eine extrem wichtige Herrschaftsfunktion: Wer im Konkurrenzkampf um Ausbildungs- und Arbeitsplätze als Verlierer hervorgeht (und dieses System *muss* massenhaft Verlierer produzieren), dem wird eingeredet, er selbst trage die alleinige Schuld.\n\nDer Reichtum des erfolgreichen Gründers rührt nicht von seinem 18-Stunden-Tag her, sondern aus der Rechtsordnung, die es ihm erlaubt, die 8-Stunden-Tage von 10.000 anderen rechtmäßig abzuschöpfen. ",
+        back: 'In einem System, wo Privateigentum Millionen von Menschen strukturell aussperrt und systematisch Profit aus Lohnarbeit gezogen wird, ist der Reichtum nie Resultat eigner Arbeit, sondern fremder.',
+        content: "## Das Märchen vom Fleiß\n\nWenn harte Arbeit reich machen würde, wären Krankenschwestern und Bauarbeiter Millionäre. Die Leistungsideologie erfüllt eine extrem wichtige Herrschaftsfunktion: Wer im Konkurrenzkampf um Ausbildungs- und Arbeitsplätze als Verlierer hervorgeht (und dieses System muss massenhaft Verlierer produzieren), dem wird eingeredet, er selbst trage die alleinige Schuld.\n\nDer Reichtum des erfolgreichen Gründers rührt nicht von seinem 18-Stunden-Tag her, sondern aus der Rechtsordnung, die es ihm erlaubt, die 8-Stunden-Tage von 10.000 anderen rechtmäßig abzuschöpfen. ",
         size: 'normal',
         theme: 'default',
         quiz: {
@@ -389,7 +389,7 @@ export const topics: Topic[] = [
             "Weil Gewerkschaften viel gieriger sind."
           ],
           correctIndex: 2,
-          explanation: "Das Kapital *muss* wachsen (Akkumulationszwang). Wer eine Fabrik leitet, wird von den Investoren und dem Konkurrenzmarkt dazu gezwungen, die Kosten zu senken, sonst geht das Unternehmen bankrott. Das System erzeugt das Verhalten, nicht umgekehrt."
+          explanation: "Das Kapital muss wachsen (Akkumulationszwang). Wer eine Fabrik leitet, wird von den Investoren und dem Konkurrenzmarkt dazu gezwungen, die Kosten zu senken, sonst geht das Unternehmen bankrott. Das System erzeugt das Verhalten, nicht umgekehrt."
         }
       },
       {
@@ -430,7 +430,7 @@ export const topics: Topic[] = [
         title: 'Die reale Abstraktion',
         front: 'Der Tauschakt abstrahiert tagtäglich praktisch von der tatsächlichen Nützlichkeit der Dinge und reduziert sie auf abstrakten Wert.',
         back: 'Die Abstraktion ist im Kapitalismus keine bloß gedankliche Leistung der Ökonomen. Sie findet auf dem Markt als "reale Abstraktion" statt, wenn Waren völlig ungeachtet ihrer sinnlichen Beschaffenheit gleichgesetzt werden.',
-        content: "## Die reale Abstraktion\n\nDer gewöhnliche Verstand tut sich schwer mit der Kritik der politischen Ökonomie, weil er gewohnt ist, Dinge in ihrer reinen Gegenständlichkeit zu betrachten (ein Tisch ist ein Tisch).\n\nDie materialistische Methode zeigt, dass die Gesellschaft selbst *praktisch abstrahiert*. Im Akt des Tausches werden zwei verschiedene Naturgegenstände völlig gleichgesetzt. Die Marktteilnehmer tun das, ohne es bewusst zu wissen.\n\nDie wissenschaftliche Abstraktion muss also nicht die Wirklichkeit vereinfachen, sondern hinter die von der kapitalistischen Praxis bereits vollzogenen realen Abstraktionen blicken, um ihr Wesen offenzulegen. Nur so wird verständlich, warum gesellschaftliche Beziehungen der Menschen als sachliche Verhältnisse der Dinge erscheinen.",
+        content: "## Die reale Abstraktion\n\nDer gewöhnliche Verstand tut sich schwer mit der Kritik der politischen Ökonomie, weil er gewohnt ist, Dinge in ihrer reinen Gegenständlichkeit zu betrachten (ein Tisch ist ein Tisch).\n\nDie materialistische Methode zeigt, dass die Gesellschaft selbst praktisch abstrahiert. Im Akt des Tausches werden zwei verschiedene Naturgegenstände völlig gleichgesetzt. Die Marktteilnehmer tun das, ohne es bewusst zu wissen.\n\nDie wissenschaftliche Abstraktion muss also nicht die Wirklichkeit vereinfachen, sondern hinter die von der kapitalistischen Praxis bereits vollzogenen realen Abstraktionen blicken, um ihr Wesen offenzulegen. Nur so wird verständlich, warum gesellschaftliche Beziehungen der Menschen als sachliche Verhältnisse der Dinge erscheinen.",
         size: 'wide',
         theme: 'dark',
         quiz: {
@@ -452,7 +452,7 @@ export const topics: Topic[] = [
         title: 'Zum Konkreten',
         front: 'Man muss bei der einfachsten sozialen Form (der Ware) beginnen und sie logisch bis zum Weltmarkt aufrollen.',
         back: 'Das Problem ist nicht historisch, sondern theoretisch: Aus dem einfachsten inneren Widerspruch drängt sich die nächste Kategorie zwingend auf.',
-        content: "## Das Aufsteigen vom Abstrakten zum Konkreten\n\nDie Kritik der politischen Ökonomie erzählt keine Historie (vom Tauschhandel in der Steinzeit bis zum Euro), sondern entfaltet die *Bestimmungen des existierenden Systems*. Sie beginnt bei der einfachsten Form: Der Ware.\n\nAus der Analyse der Ware entspringt als logische Notwendigkeit zur Lösung ihres innewohnenden Widerspruchs das Geld. Aus dem Geld wiederum erwächst als selbstverwertender Zweck das Kapital. Aus dem Kapital resultiert die Lohnarbeit usw.\n\nDiese logische Herleitung beweist, dass Phänomene wie Krise keine Unfälle sind, sondern in der Keimform theoretisch vorprogrammiert waren. Die abstrakte Theorie wird durch sukzessive Hinzunahme von Bestimmungen immer 'konkreter'.",
+        content: "## Das Aufsteigen vom Abstrakten zum Konkreten\n\nDie Kritik der politischen Ökonomie erzählt keine Historie (vom Tauschhandel in der Steinzeit bis zum Euro), sondern entfaltet die Bestimmungen des existierenden Systems. Sie beginnt bei der einfachsten Form: Der Ware.\n\nAus der Analyse der Ware entspringt als logische Notwendigkeit zur Lösung ihres innewohnenden Widerspruchs das Geld. Aus dem Geld wiederum erwächst als selbstverwertender Zweck das Kapital. Aus dem Kapital resultiert die Lohnarbeit usw.\n\nDiese logische Herleitung beweist, dass Phänomene wie Krise keine Unfälle sind, sondern in der Keimform theoretisch vorprogrammiert waren. Die abstrakte Theorie wird durch sukzessive Hinzunahme von Bestimmungen immer 'konkreter'.",
         size: 'tall',
         theme: 'outlined',
         quiz: {
@@ -483,7 +483,7 @@ export const topics: Topic[] = [
         title: 'Zweck der Vernunft',
         front: 'Die Logik des Kapitals kennt kein äußeres Ziel, keine endliche Bedürfnisbefriedigung. Der Zweck der Geldvermehrung ist grenzenlos.',
         back: 'Geld wird zu Kapital, indem es sich in den Produktionsprozess wirft, um als mehr Geld wieder aufzutauchen. Der Mensch fungiert darin als bloße Charaktermaske.',
-        content: "## G-W-G' : Die maßlose Bewegung\n\nIn der einfachen Warenproduktion produziert ein Handwerker, verkauft sein Produkt und kauft davon Lebensmittel (W-G-W). Das Ziel ist Konsum, das Maß ist das menschliche Bedürfnis.\n\nDie Logik des Kapitals ist diametral entgegengesetzt: Das Kapital startet mit Geld (G), kauft Waren (W = Maschinen, fremde Arbeitskraft) um sie für MEHR Geld zu verkaufen (G').\n\nWarum? Weil Wert an sich keine innere Grenze kennt. Man kann abstrakt betrachtet immer *noch mehr* Geld machen. Und diese endlose, qualitätslose Maßlosigkeit zwingt die Kapitalisten unter Androhung des eigenen Bankrotts in den ständigen Expansionszwang. Das System kennt in sich selbst kein 'genug'.",
+        content: "## G-W-G' : Die maßlose Bewegung\n\nIn der einfachen Warenproduktion produziert ein Handwerker, verkauft sein Produkt und kauft davon Lebensmittel (W-G-W). Das Ziel ist Konsum, das Maß ist das menschliche Bedürfnis.\n\nDie Logik des Kapitals ist diametral entgegengesetzt: Das Kapital startet mit Geld (G), kauft Waren (W = Maschinen, fremde Arbeitskraft) um sie für MEHR Geld zu verkaufen (G').\n\nWarum? Weil Wert an sich keine innere Grenze kennt. Man kann abstrakt betrachtet immer noch mehr Geld machen. Und diese endlose, qualitätslose Maßlosigkeit zwingt die Kapitalisten unter Androhung des eigenen Bankrotts in den ständigen Expansionszwang. Das System kennt in sich selbst kein 'genug'.",
         size: 'featured',
         theme: 'accent',
         quiz: {
@@ -505,7 +505,7 @@ export const topics: Topic[] = [
         title: 'Logik der Krise',
         front: 'Krisen sind keine Betriebsunfälle oder Missmanagement. Sie sind der gewaltsame Ausgleich der antagonistischen Logik des Systems selbst.',
         back: 'Das Kapital tendiert dazu, die Produktivkräfte grenzenlos zu entwickeln, während die Konsumtionskraft durch den Zwang zur Lohnsenkung streng beschränkt bleibt.',
-        content: "## Überakkumulation als notwendiges Prinzip\n\nDie Krise in der kapitalistischen Logik ist historisch völlig neu. In Vorkapitalistischen Zeiten grasierten Mangelkrisen (Missernten). Im Kapitalismus verarmen Massen und Firmen brechen zusammen, weil *zu viel* produziert wurde, was sich nicht mehr profitabel vermarkten lässt (Überproduktionskrise).\n\nDie treibende Logik:\n1. Unternehmen müssen profitabler werden (Automatisierung, Lohnsenkung).\n2. Es wird mehr Wert/Güter in kürzerer Zeit erschaffen.\n3. Gleichzeitig sinkt die Massenkaufkraft, um die Lohnkosten zu drücken.\n4. Die produzierten massenhaften Waren finden keine zahlungsfähigen Abnehmer, das Kapital kann sich nicht verwerten.\n\nDie Krise entwertet dann das überschüssige Kapital gewaltsam, bis sich die Profitraten erholen und der irre Kreislauf von Neuem beginnt.",
+        content: "## Überakkumulation als notwendiges Prinzip\n\nDie Krise in der kapitalistischen Logik ist historisch völlig neu. In Vorkapitalistischen Zeiten grasierten Mangelkrisen (Missernten). Im Kapitalismus verarmen Massen und Firmen brechen zusammen, weil zu viel produziert wurde, was sich nicht mehr profitabel vermarkten lässt (Überproduktionskrise).\n\nDie treibende Logik:\n1. Unternehmen müssen profitabler werden (Automatisierung, Lohnsenkung).\n2. Es wird mehr Wert/Güter in kürzerer Zeit erschaffen.\n3. Gleichzeitig sinkt die Massenkaufkraft, um die Lohnkosten zu drücken.\n4. Die produzierten massenhaften Waren finden keine zahlungsfähigen Abnehmer, das Kapital kann sich nicht verwerten.\n\nDie Krise entwertet dann das überschüssige Kapital gewaltsam, bis sich die Profitraten erholen und der irre Kreislauf von Neuem beginnt.",
         size: 'normal',
         theme: 'default',
         quiz: {
@@ -536,7 +536,7 @@ export const topics: Topic[] = [
         title: 'Geisterhafte Gegenständlichkeit',
         front: 'Im Kapitalismus nehmen soziale Verhältnisse zwischen Menschen die absurde Form von sachlichen Eigenschaften der Dinge an.',
         back: 'Dass ein Stück Papier (Geld) Macht über Menschen hat, ist keine Eigenschaft des Papiers, sondern ein verdinglichtes gesellschaftliches Verhältnis, das den Akteuren verborgen bleibt.',
-        content: "## Der Warenfetischismus\n\nOft wird unter 'Fetischismus' umgangssprachlich der übertriebene Konsumwahn verstanden (z.B. ein 'Markenfetisch'). Marx meint damit jedoch etwas grundlegend anderes, tiefgreifenderes.\n\nWeil die Produzenten in dieser Gesellschaft erst über den Markt (den Tausch) miteinander in Kontakt treten, erscheint ihnen ihre eigene gesellschaftliche Arbeit nicht als direkte soziale Beziehung, sondern als eine *sachliche Eigenschaft der Produkte* selbst. Nicht Menschen bestimmen bewusst, wie viel wofür gearbeitet wird, sondern die fallenden oder steigenden 'Preise' der Dinge auf dem Markt diktieren den Menschen ihr Handeln.\n\nDas gesellschaftliche Verhältnis der Produzenten erscheint als ein gesellschaftliches Verhältnis von Dingen. Die Dinge (Märkte, Kurse, Preise) scheinen ein Eigenleben zu führen und beherrschen ihre eigenen Schöpfer.",
+        content: "## Der Warenfetischismus\n\nOft wird unter 'Fetischismus' umgangssprachlich der übertriebene Konsumwahn verstanden (z.B. ein 'Markenfetisch'). Marx meint damit jedoch etwas grundlegend anderes, tiefgreifenderes.\n\nWeil die Produzenten in dieser Gesellschaft erst über den Markt (den Tausch) miteinander in Kontakt treten, erscheint ihnen ihre eigene gesellschaftliche Arbeit nicht als direkte soziale Beziehung, sondern als eine sachliche Eigenschaft der Produkte selbst. Nicht Menschen bestimmen bewusst, wie viel wofür gearbeitet wird, sondern die fallenden oder steigenden 'Preise' der Dinge auf dem Markt diktieren den Menschen ihr Handeln.\n\nDas gesellschaftliche Verhältnis der Produzenten erscheint als ein gesellschaftliches Verhältnis von Dingen. Die Dinge (Märkte, Kurse, Preise) scheinen ein Eigenleben zu führen und beherrschen ihre eigenen Schöpfer.",
         size: 'wide',
         theme: 'dark',
         quiz: {
@@ -739,7 +739,7 @@ export const topics: Topic[] = [
         title: 'Die Psychologie d. b. Individuums',
         front: 'Karl Held - Exakter Titel: »Die Psychologie des bürgerlichen Individuums«.',
         back: 'Wie sich moderne Menschen geistig für die Konkurrenz zurichten und eine Moral ausbilden, die ihr Versagen ihnen selbst zuschreibt.',
-        content: "## Exakte Buchdaten\nTitel: Die Psychologie des bürgerlichen Individuums\nAutor: Karl Held\nVerlag: Gegenstandpunkt Verlag, München\nJahr: 1991\n\n---\n\n## Inhalt\nWarum verteidigen Menschen ein System, das sie objektiv schädigt? Held zerlegt die gängigen linken Erklärungen (Verblendung, Manipulation durch Medien) und rückt stattdessen den *freien Willen* des Subjekts in den Fokus.\n\nDas bürgerliche Individuum übersetzt objektive Zwänge (Lohnarbeit, Konkurrenz) in sein individuelles Erfolgsprogramm. Es bildet ein Gewissen aus, rechnet sich Erfolge und Misserfolge als persönliches Verdienst zu und flüchtet, wenn es scheitert, in Ohnmacht, Moral oder Wahnsinn (von der Familie als 'sicherer Hafen' bis zum Nationalismus). Eines der faszinierendsten Bücher der theoretischen Tradition.",
+        content: "## Exakte Buchdaten\nTitel: Die Psychologie des bürgerlichen Individuums\nAutor: Karl Held\nVerlag: Gegenstandpunkt Verlag, München\nJahr: 1991\n\n---\n\n## Inhalt\nWarum verteidigen Menschen ein System, das sie objektiv schädigt? Held zerlegt die gängigen linken Erklärungen (Verblendung, Manipulation durch Medien) und rückt stattdessen den freien Willen des Subjekts in den Fokus.\n\nDas bürgerliche Individuum übersetzt objektive Zwänge (Lohnarbeit, Konkurrenz) in sein individuelles Erfolgsprogramm. Es bildet ein Gewissen aus, rechnet sich Erfolge und Misserfolge als persönliches Verdienst zu und flüchtet, wenn es scheitert, in Ohnmacht, Moral oder Wahnsinn (von der Familie als 'sicherer Hafen' bis zum Nationalismus). Eines der faszinierendsten Bücher der theoretischen Tradition.",
         size: 'normal',
         theme: 'outlined'
       },
